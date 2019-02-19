@@ -1,0 +1,3 @@
+fontes:
+cores:#3498db(Peter River),1c6a9e(versao mais forte)
+backgrounds:
